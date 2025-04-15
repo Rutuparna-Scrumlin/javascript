@@ -1,5 +1,5 @@
 const person = {
-    name: 'Devranjan',
+    name: 'Rutuparna',
     address:"BBSR",
     phoneno:"8987876789",
     status:true,
